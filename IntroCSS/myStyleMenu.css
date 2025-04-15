@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content:left;
+    background-color: cyan;
+    padding: 20px;
+}
+
+a{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+a:link{
+    color: grey;
+}
+
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: brown;
+}
+
+a:active{
+    color:cornflowerblue;
+}
